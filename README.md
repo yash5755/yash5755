@@ -28,7 +28,8 @@ I bridge the gap between **Cloud Infrastructure** and **AI/ML Engineering**. I s
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,aws,c,java,git,github,html,css,javascript" />
-  <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif" width="32" alt="loading" />
+  <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.  <img src="https://img.shields.io/badge/Learning-FFD43B?style=for-the-badge&labelColor=1A1B26" height="32" />
+gif" width="32" alt="loading" />
 </p>
 
 ---
