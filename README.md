@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=YASHWANTH&repeat=false&runonce=true" alt="YASH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=YASHWANTH R&repeat=false&runonce=true" alt="YASH" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ I bridge the gap between **Cloud Infrastructure** and **AI/ML Engineering**. I s
 ## 🛠️ Technical Ecosystem
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,linux,docker,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,aws,c,java,git,github,html,css,javascript" />
 </p>
 
 ---
