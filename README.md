@@ -28,7 +28,6 @@ I bridge the gap between **Cloud Infrastructure** and **AI/ML Engineering**. I s
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,aws,c,java,git,github,html,css,javascript" />
-  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/ring.svg" height="32" />
 </p>
 
 ---
