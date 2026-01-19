@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=YASHWANTH&repeat=false&runonce=true" alt="YASH" />
+    <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif" width="32" alt="loading" />
 </p>
 
 <p align="center">
